@@ -1,12 +1,5 @@
-<!DOCTYPE html>
-<html>
-  <head>
-  <title> Ruby on Rails Tutorial Sample App | <%= @title %> </title>
-  </head>
-  <body>
   <h1> Sample App </h1>
   <p>
-  This is a home page for senthils sample application - <%= @title %> hello
+  This is a home page for senthils sample application - <%= title %> hello
   </p>
-  </body>
-</html>
+
